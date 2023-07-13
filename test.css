@@ -1,0 +1,29 @@
+
+body { 
+    font-family: 'Montserrat', sans-serif;
+    background-color: #91bbff;
+}
+
+h1 {
+    text-align: center;
+}
+
+a:hover { 
+ font-size: 200%;
+ color: yellow;
+}
+
+#Logo1 {
+    
+    text-align: center;
+}
+
+#fi { 
+
+    width: 65%;
+    height: 300px;
+    border-radius: 80px;
+    box-shadow: 10px 10px;
+}
+main { 
+    margin: 10%;
